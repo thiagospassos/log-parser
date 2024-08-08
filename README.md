@@ -1,6 +1,6 @@
 # Mantel Group Coding Test
 
-This goal of this application is to read a log file and be able to analyse its data based on the sample data was provided.
+The goal of this application is to read a log file and analyze its data based on the provided sample data.
 
 # Log Sample
 
